@@ -10,6 +10,9 @@
  * *SQLite* (за съхранение на информацията за спирките на градския транспорт);
  * *Google Maps* (за изобразяване на спирките върху картата);
 
+=Съвместимост=
+Приложението е съвместимо с всички Андроид устройства, използващи версия 1.6 (Android Donut) и нагоре, което го прави съвместимо с над 99% от Андроид устройствата на пазара - [http://developer.android.com/about/dashboards/index.html Версии на Андроид].
+
 =Снимки=
 https://sofbus24.googlecode.com/svn/Pictures/1.Start_screen.jpg
 https://sofbus24.googlecode.com/svn/Pictures/2.Station_info.jpg
