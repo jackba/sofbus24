@@ -1,0 +1,5 @@
+Как да инсталираме Eclipse IDE и Android SDK:
+
+=1. Инсталиране на Eclipse IDE и Android SDK=
+ * *Eclipse IDE* е среда за програмиране. Програма с инструменти, които улесняват значително процеса на програмиране. IDE означава [http://en.wikipedia.org/wiki/Integrated_development_environment Integrated Development Environment] или на Български език - интегрирана среда за програмиране.
+ * *Android SDK* е набор от инструменти за създаване на приложения за платформата Android. SDK означава [http://en.wikipedia.org/wiki/SDK Software Development Kit] или на Български език - набор от инструменти за програмиране.
