@@ -1,4 +1,4 @@
-[http://www.androidbg.com/forum/topic3379-instalirane-i-konfigurirane-na-rabotnata-sreda-eclipse-android-sdk.html Как да инсталираме Eclipse IDE и Android SDK:]
+Как да инсталираме Eclipse IDE и Android SDK:
 
 ==1. Какво е Eclipse IDE и Android SDK==
  * *Eclipse IDE* е среда за програмиране. Програма с инструменти, които улесняват значително процеса на програмиране. IDE означава [http://en.wikipedia.org/wiki/Integrated_development_environment Integrated Development Environment] или на Български език - интегрирана среда за програмиране.
@@ -15,3 +15,5 @@
   * Инсталирате *Android Development Tools (ADP)* като стартирате *Eclipse -> Help -> Available Software*. В полето до *Work with:* въвеждате следният адрес: https://dl-ssl.google.com/android/eclipse/ и натискате бутона *Add*. След това натиснете бутоните *Select All* и *Next*. Изчакайте малко и ще се отвори нов прозорец и натискате *Next*. Отново ще се отвори нов прозорец където трябва да изберете радио бутона до *"I accept the terms of the license agreements"* и след това бутона *Finish*. Ще последва инсталация на *ADT* и като приключи ще Ви помоли да рестартирате *Eclipse-a*.
   * Сега трябва да укажем на *Eclipse-a* или по-точно на *ADT* къде се намира *Android SDK-a* - *Window -> Preferences -> Android -> SDK Location* и от бутона *Browse* избирате директорията на *SDK-a*.
   * Остана само да обновим *ADT* - *Window -> Android SDK and AVD Manager -> Installed Packages -> Update All*. Ще се отвори едно прозорче и ще трябва да изчакате да се обнови.
+
+Информацията е взета от [http://www.androidbg.com/forum/topic3379-instalirane-i-konfigurirane-na-rabotnata-sreda-eclipse-android-sdk.html Инсталиране и конфигуриране на работната среда Eclipse + Android SDK].
