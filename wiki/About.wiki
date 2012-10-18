@@ -15,10 +15,10 @@
 
 =Снимки=
 https://sofbus24.googlecode.com/svn/Pictures/1.Start_screen.jpg
-https://sofbus24.googlecode.com/svn/Pictures/2.Station_info.jpg
-https://sofbus24.googlecode.com/svn/Pictures/3.GPS-Map_Satellite.jpg
-https://sofbus24.googlecode.com/svn/Pictures/4.GPS-Map_Menu.jpg
-https://sofbus24.googlecode.com/svn/Pictures/5.Search.jpg
-https://sofbus24.googlecode.com/svn/Pictures/6.Stations.jpg
-https://sofbus24.googlecode.com/svn/Pictures/7.Route.jpg
-https://sofbus24.googlecode.com/svn/Pictures/8.Context_menu.jpg
+https://sofbus24.googlecode.com/svn/Pictures/3.Station_info.jpg
+https://sofbus24.googlecode.com/svn/Pictures/7.GPS-Map_Satellite.jpg
+https://sofbus24.googlecode.com/svn/Pictures/8.GPS-Map_Menu.jpg
+https://sofbus24.googlecode.com/svn/Pictures/11.Search.jpg
+https://sofbus24.googlecode.com/svn/Pictures/13.Stations.jpg
+https://sofbus24.googlecode.com/svn/Pictures/14.Route.jpg
+https://sofbus24.googlecode.com/svn/Pictures/17.Context_menu.jpg
