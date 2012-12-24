@@ -21,6 +21,8 @@ https://sofbus24.googlecode.com/svn/Pictures/19.Exit.jpg
 текстово поле, в което да се въведе текст от картинка, посредством който да се верифицирате.<br/>
 *_ВЕРСИЯ 1.10_* - Добавена е възможност за търсене на спирка по нейното име или част от него (освен вече наличната по номер на спирка). При търсене по част от името, е нужно да бъдат въведени поне 3 символа от него, след което се визуализира лист, съдържащ всички спирки, съдържащи този фрагмент.
 <br>https://sofbus24.googlecode.com/svn/Pictures/2.Choose_stop.PNG
+https://sofbus24.googlecode.com/svn/Pictures/23.NoMatch.png
+https://sofbus24.googlecode.com/svn/Pictures/24.NoInternet.png
 https://sofbus24.googlecode.com/svn/Pictures/21.GPS_Stations_Choice.png
 
 ===Информация в реално време===
