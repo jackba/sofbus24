@@ -22,4 +22,4 @@ https://sofbus24.googlecode.com/svn/Pictures/8.GPS-Map_Menu.jpg
 https://sofbus24.googlecode.com/svn/Pictures/11.Search.jpg
 https://sofbus24.googlecode.com/svn/Pictures/22.Stations_Cotext_Menu.png
 https://sofbus24.googlecode.com/svn/Pictures/14.Route.jpg
-https://sofbus24.googlecode.com/svn/Pictures/17.Context_menu.jpg
+https://sofbus24.googlecode.com/svn/Pictures/16.Favorites.jpg
