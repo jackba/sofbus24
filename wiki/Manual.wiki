@@ -9,9 +9,9 @@
  * *GPS времена – Google Maps* - локализиране на текущото местоположение посредством вградените GPS или WiFi модули;
  * *Разписания* - графикът на градския транспорт, предоставен от системата за градска мобилност СКГТ;
  * *Любими* - спирките, маркирани от потребителя;
- * *Информация* - най-обща информация за приложението;
+ * *Настройки* - набор от възможности за модифициране на функционалността и интерфейса на приложението;
  * *Изход*;
-https://sofbus24.googlecode.com/svn/Pictures/1.Start_screen.jpg
+https://sofbus24.googlecode.com/svn/Pictures/25.Start_screen.png
 https://sofbus24.googlecode.com/svn/Pictures/18.Information.jpg
 https://sofbus24.googlecode.com/svn/Pictures/19.Exit.jpg
 
