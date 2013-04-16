@@ -64,6 +64,7 @@ https://sofbus24.googlecode.com/svn/Pictures/5.Show_on_map.jpg
  * Добавена е допълнителна функционалност на бутона "GPS времена Google Maps", позволяваща визуализирането на най-близките спирки и разстоянието до тях, без използването на картата на Google Maps.
  * Лентата, показваща търсенето на текущото местоположение, се появява само първия път, при търсенето на съотвените координати.
 <br>https://sofbus24.googlecode.com/svn/Pictures/35.LoadingStations.png
+https://sofbus24.googlecode.com/svn/Pictures/36.ClosestStationList.png
 https://sofbus24.googlecode.com/svn/Pictures/6.GPS-Map.jpg
 https://sofbus24.googlecode.com/svn/Pictures/8.GPS-Map_Menu.jpg
 https://sofbus24.googlecode.com/svn/Pictures/9.GPS-Map_Distance.jpg
