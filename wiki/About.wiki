@@ -18,9 +18,11 @@
 https://sofbus24.googlecode.com/svn/Pictures/25.Start_screen.png
 https://sofbus24.googlecode.com/svn/Pictures/21.GPS_Stations_Choice.png
 https://sofbus24.googlecode.com/svn/Pictures/26.Virtual_Boards.png
+https://sofbus24.googlecode.com/svn/Pictures/36.ClosestStationsList.png
 https://sofbus24.googlecode.com/svn/Pictures/8.GPS-Map_Menu.jpg
-https://sofbus24.googlecode.com/svn/Pictures/11.Search.jpg
+https://sofbus24.googlecode.com/svn/Pictures/11.Search.png
 https://sofbus24.googlecode.com/svn/Pictures/22.Stations_Cotext_Menu.png
+https://sofbus24.googlecode.com/svn/Pictures/15.Show_on_map.png
 https://sofbus24.googlecode.com/svn/Pictures/14.Route.jpg
 https://sofbus24.googlecode.com/svn/Pictures/16.Favorites.jpg
 https://sofbus24.googlecode.com/svn/Pictures/27.Options.png
