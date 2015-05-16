@@ -1,0 +1,19 @@
+# Как да инсталираме Eclipse IDE и Android SDK: #
+
+## 1. Какво е Eclipse IDE и Android SDK ##
+  * **Eclipse IDE** е среда за програмиране. Програма с инструменти, които улесняват значително процеса на програмиране. IDE означава [Integrated Development Environment](http://en.wikipedia.org/wiki/Integrated_development_environment) или на Български език - интегрирана среда за програмиране.
+  * **Android SDK** е набор от инструменти за създаване на приложения за платформата Android. SDK означава [Software Development Kit](http://en.wikipedia.org/wiki/SDK) или на Български език - набор от инструменти за програмиране.
+
+## 2. Подготвяне на средата за програмиране ##
+  * **Хардуерни изисквания** - преди да преминем към свалянето и подготвянето на средата за програмиране трябва да се запознаем с изискванията към системата, на която ще работим:
+    * **Операционна система**: **Linux** (32- или 64bit), **Windows XP** (32bit), **Windows Vista/7** (32- или 64bit) и **Mac OSX** 10.5.8 или по-нова (x86 само)
+    * **Поддържани среди за програмиране**: в тази тема ще използваме само **Eclipse IDE** for **Java Development (JDT)**, който иска да разбере кои други среди се поддържат - да прочете [тук](http://developer.android.com/sdk/index.html).
+    * **Място**: около 500 MB.
+  * **Преминаваме към конфигурирането на работната среда**
+    * Сваляте Eclipse IDE за Linux - [32bit](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/juno/SR1/eclipse-jee-juno-SR1-linux-gtk.tar.gz)/[64bit](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/juno/SR1/eclipse-jee-juno-SR1-linux-gtk-x86_64.tar.gz), Windows - [32bit](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/juno/SR1/eclipse-jee-juno-SR1-win32.zip)/[64bit](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/juno/SR1/eclipse-jee-juno-SR1-win32-x86_64.zip) или Mac OSX - [32bit](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/juno/SR1/eclipse-jee-juno-SR1-macosx-cocoa.tar.gz)/[64bit](http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/juno/SR1/eclipse-jee-juno-SR1-macosx-cocoa-x86_64.tar.gz) - Преди да инсталирате Eclipse IDE е нужно да имате **Java Development Kit (JDK)** или **Java Runtime Environment (JRE)**.
+    * Сваляте **Android SDK** за [Linux](http://dl.google.com/android/android-sdk_r20.0.3-linux.tgz), [Windows](http://dl.google.com/android/installer_r20.0.3-windows.exe) или [Mac OSX](http://dl.google.com/android/android-sdk_r20.0.3-macosx.zip);
+    * Инсталирате **Android Development Tools (ADP)** като стартирате **Eclipse -> Help -> Available Software**. В полето до **Work with:** въвеждате следният адрес: https://dl-ssl.google.com/android/eclipse/ и натискате бутона **Add**. След това натиснете бутоните **Select All** и **Next**. Изчакайте малко и ще се отвори нов прозорец и натискате **Next**. Отново ще се отвори нов прозорец където трябва да изберете радио бутона до **"I accept the terms of the license agreements"** и след това бутона **Finish**. Ще последва инсталация на **ADT** и като приключи ще Ви помоли да рестартирате **Eclipse-a**.
+    * Сега трябва да укажем на **Eclipse-a** или по-точно на **ADT** къде се намира **Android SDK-a** - **Window -> Preferences -> Android -> SDK Location** и от бутона **Browse** избирате директорията на **SDK-a**.
+    * Остана само да обновим **ADT** - **Window -> Android SDK and AVD Manager -> Installed Packages -> Update All**. Ще се отвори едно прозорче и ще трябва да изчакате да се обнови.
+
+Информацията е взета от [Инсталиране и конфигуриране на работната среда Eclipse + Android SDK](http://www.androidbg.com/forum/topic3379-instalirane-i-konfigurirane-na-rabotnata-sreda-eclipse-android-sdk.html).
